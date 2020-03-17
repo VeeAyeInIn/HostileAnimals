@@ -1,0 +1,8 @@
+name: HostileAnimals
+version: ${project.version}
+main: me.veeayeinin.minecraft.hostileanimals.HostileAnimals
+api-version: 1.13
+prefix: Hostile Animals
+load: STARTUP
+authors: [VeeAyeInIn]
+description: Animal behaviours can now be changed, and can attack you.
